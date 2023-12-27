@@ -1,0 +1,2 @@
+# smc
+ Sequence Matrix Calculator
